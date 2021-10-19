@@ -1,2 +1,2 @@
-# Computer_Vision
+# Computer Vision Projects
 Everything Computer Vision
