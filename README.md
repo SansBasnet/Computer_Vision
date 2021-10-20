@@ -1,2 +1,2 @@
 # Computer Vision Projects
-Everything Computer Vision
+Everything Computer Vision related. 
